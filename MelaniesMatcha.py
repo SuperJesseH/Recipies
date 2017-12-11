@@ -7,10 +7,10 @@ if len(argv) >= 1:
 else:
 	servings = 1
 
-matcha = float(servings) * 3
-turmeric = float(servings)
-cinnamon = float(servings) / 4
-coco_oil = float(servings) * 3
+matcha = float(servings) * 1.5
+turmeric = float(servings) * 0.75
+cinnamon = float(servings) / 8
+coco_oil = float(servings) * 2
 
 
 print(f"""
